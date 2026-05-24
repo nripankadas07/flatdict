@@ -5,7 +5,7 @@ Flatten and unflatten nested Python dictionaries using path notation. Zero depen
 ## Install
 
 ```bash
-pip install flatdict
+python -m pip install -e .
 ```
 
 From source:
